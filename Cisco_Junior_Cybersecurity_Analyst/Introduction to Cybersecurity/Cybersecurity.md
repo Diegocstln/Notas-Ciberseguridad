@@ -1,5 +1,18 @@
 # Introducción a la Ciberseguridad
 
+## Tabla de Contenidos
+* [¿Qué es la ciberseguridad?](#qué-es-la-ciberseguridad)
+* [Niveles de protección](#niveles-de-protección)
+* [Tipos de datos protegidos](#tipos-de-datos-protegidos)
+  * [Datos tradicionales](#datos-tradicionales)
+  * [Internet de las Cosas (IoT) y Big Data](#internet-de-las-cosas-iot-y-big-data)
+* [El Cubo de McCumber](#el-cubo-de-mccumber)
+* [Los principios fundamentales para proteger la información (Triada CIA)](#los-principios-fundamentales-para-proteger-la-información-triada-cia)
+* [La protección de la información en cada estado](#la-protección-de-la-información-en-cada-estado)
+* [Las medidas de seguridad para proteger los datos](#las-medidas-de-seguridad-para-proteger-los-datos)
+
+---
+
 ## ¿Qué es la ciberseguridad?
 La ciberseguridad es el esfuerzo continuo para proteger a las personas, las organizaciones y los gobiernos de los ataques digitales mediante la protección de los sistemas y datos en red contra el uso o daño no autorizados.
 
@@ -27,6 +40,21 @@ El Cubo de McCumber es un modelo marco creado por John McCumber en 1991 para ayu
 1. **Los principios fundamentales:** Para proteger los sistemas de información (Confidencialidad, Integridad y Disponibilidad - Triada CIA).
 2. **Los estados de la información:** La protección de la información en cada uno de sus estados posibles (Procesamiento, Almacenamiento y Transmisión).
 3. **Las medidas de seguridad:** Utilizadas para proteger los datos (Políticas, Educación y Tecnología).
-## Los principios fundamentales for protecting information
-1. **La confidencialidad:** es un conjunto de reglas que evita la informacion sensible sea revelada a personas no autorizadas, espacio de recursos y prcoesos. Los emtodos utiliazdos para garantizar la confidencialidad incluyen el cifrado de datos, la autenticaciony el control de acceso
-2. La integridad garantiza que la informacion o los preocesos de sistemas esten protegidos contra modifciaciones intencionales o accidentales. Ina forma de garantixar la integriadad es utlizar una funcion o hash o sima de comprobacion
+
+## Los principios fundamentales para proteger la información (Triada CIA)
+
+1. **La confidencialidad:** Es un conjunto de reglas que evita que la información sensible sea revelada a personas no autorizadas, recursos o procesos. Los métodos utilizados para garantizar la confidencialidad incluyen el cifrado de datos, la autenticación y el control de acceso.
+2. **La integridad:** Garantiza que la información o los procesos de sistemas estén protegidos contra modificaciones intencionales o accidentales. Una forma de garantizar la integridad es utilizar una función hash o suma de comprobación.
+3. **La disponibilidad:** Significa que los usuarios autorizados pueden acceder a los sistemas y datos cuando y donde sea necesario, mientras que el acceso es denegado a aquellos que no cumplen con las condiciones establecidas. Esto se puede lograr manteniendo el equipo, realizando reparaciones de hardware, manteniendo los sistemas operativos actualizados y creando copias de seguridad.
+
+## La protección de la información en cada estado
+
+* **El procesamiento:** Se refiere a los datos que se utilizan para realizar una operación, como la actualización de un registro de base de datos (DB).
+* **El almacenamiento:** Se refiere a los datos almacenados en la memoria o en un dispositivo de almacenamiento permanente, como un disco duro, una unidad de estado sólido o una USB.
+* **La transmisión:** Se refiere a los datos que viajan entre sistemas de información (datos en tránsito).
+
+## Las medidas de seguridad para proteger los datos
+
+* **La concientización, la capacitación y la educación:** Son las medidas implementadas por una organización para garantizar que los usuarios estén informados sobre las posibles amenazas a la seguridad y las acciones que pueden tomar para proteger los sistemas de información.
+* **La tecnología:** Se refiere a las soluciones basadas en software (y hardware) diseñadas para proteger sistemas de información, como firewalls que monitorean continuamente su red en busca de posibles incidentes maliciosos.
+* **La política y el procedimiento:** Se refieren a los controles administrativos que proporcionan una base para la forma en que una organización implementa el aseguramiento de la información, como los planes de respuesta a incidentes y las pautas de mejores prácticas.
