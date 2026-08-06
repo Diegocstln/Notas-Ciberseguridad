@@ -1,0 +1,21 @@
+# [tipo]: [descripción corta en imperativo, máx 72 caracteres]
+#
+# Tipos disponibles:
+#   feat     → Nueva nota o sección agregada
+#   update   → Actualización o ampliación de nota existente
+#   fix      → Corrección de errores o información incorrecta
+#   add      → Nuevo archivo, carpeta o recurso
+#   refactor → Reorganización de estructura sin cambio de contenido
+#   chore    → Cambios menores (formato, typos, links rotos)
+#
+# Ejemplos buenos:
+#   feat: agregar notas de ingeniería social (Cisco módulo 3)
+#   update: completar sección Blue Team en TryHackMe_primer_sala.md
+#   fix: corregir definición de firmware en Sistema_informatico.md
+#   add: estructura inicial carpeta linux con comandos básicos
+#
+# Reglas:
+#   - Escribe en español o inglés, elige uno y sé consistente
+#   - No uses punto al final del título
+#   - El cuerpo (líneas de abajo) es opcional pero útil para detallar
+#
